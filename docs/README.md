@@ -1,6 +1,6 @@
 # Il-2 BoX Custom Cockpit Photos
 
-Some custom Cockpit Photos with technical data. This project is inspired in the [Another Pilots Notes for Cockpit Photos Mod by lefuneste](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/). However, while lefuneste notes show information of each plane following the same standard allowing to manage the basis of any plane quickly, these notes, available only for a few planes, are focused on provide very specific details and information, needed when you know the plane.
+Some custom Cockpit Photos with technical data based on several real pilots manuals and flight instructions. This project is inspired in the [Another Pilots Notes for Cockpit Photos Mod by lefuneste](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/). However, while lefuneste notes show information of each plane following the same standard allowing to manage the basis of any plane quickly, these notes, available only for a few planes, are focused on provide very specific details and information, needed when you know the plane.
 
 More information: [ [Il-2 BoX Technical Data](https://ravensystem.github.io/il2_specs/) ]
 
@@ -49,3 +49,4 @@ Other useful information, specific to the plane.
 ## Available planes:
 
 - A20-B
+- Il-2 mod.1941
