@@ -26,6 +26,7 @@ A list of different available engine modes. Depending of the plane, there will b
 - **cruiseNN**: Cruise mode referencing NN% of the noiminal power.
 - **cruise.min**: Cruise mode with minimal power.
 
+**Others**:
 - **t**: Time, in minutes to use the mode.
 - **mix**: Mixture.
 - **rpm:** RPM needed for the mode. The arrow indicates the direction of rotation of the propeller; and the position, left or right, indicates the direction that the plane will pull on takeoff,the direction on which it is easier to turn.
