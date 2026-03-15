@@ -4,7 +4,7 @@ Some custom Cockpit Photos with technical data based on several real pilots manu
 
 More information: [ [Il-2 BoX Technical Data](https://ravensystem.github.io/il2_specs/) ]
 
-**[Download](https://github.com/RavenSystem/il2_cockpit_photos/archive/refs/heads/main.zip)** and use JSGME Mod Enabler.
+**[DOWNLOAD](https://github.com/RavenSystem/il2_cockpit_photos/archive/refs/heads/main.zip)** and use JSGME Mod Enabler.
 
 My personal recommendation is to install [Another Pilots Notes for Cockpit Photos](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) first, and then install the notes of this project, overwritting only those available notes of this.
 
@@ -45,7 +45,7 @@ Value ranges of temperatures and pressures, including water (coolant), oil and c
 
 - **tkoff**: Minimum speed for take-off.
 - **climb**: Desired speed for climbing.
-- **f&g**: Maximum speed to down flaps and landing gear.
+- **f/g**: Maximum speed to down flaps/landing gear.
 - **glide/land**: Desired speeds for glide and land.
 - **stall**: Minimum speeds to avoid a stall, without flaps and landing gear/with flaps and landing gear.
 - **dive**: Maximum speed for diving.
