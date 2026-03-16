@@ -61,3 +61,4 @@ Other useful information, specific to the plane.
 - A20-B
 - Il-2 mod.1941
 - Il-2 mod.1942
+- Il-2 mod.1943
