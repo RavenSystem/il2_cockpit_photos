@@ -63,5 +63,7 @@ Other useful information, specific to the plane.
 - Il-2 mod.1942
 - Il-2 mod.1943
 - Il-2 mod.1944
+- P-47D-22
+- P-47D-28
 - Spitfire MkIXc
 - Spitfire MkIXe
