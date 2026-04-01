@@ -72,6 +72,6 @@ Other useful information, specific to the plane.
 
 Using GIMP, export image as .DDS with these options:
 - Compression: BC3 / DXT5
-- Save type: All visible layers
-- Mipmaps: generate MIP maps
+- Save: All visible layers
+- Mipmaps: Generate mipmaps
 
