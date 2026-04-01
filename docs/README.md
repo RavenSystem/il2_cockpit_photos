@@ -67,3 +67,11 @@ Other useful information, specific to the plane.
 - P-47D-28
 - Spitfire MkIXc
 - Spitfire MkIXe
+
+## How to export
+
+Using GIMP, export image ass .DDS with these options:
+- Compression: BC3 / DXT5
+- Save type: All visible layers
+- Mipmaps: generate MIP maps
+
