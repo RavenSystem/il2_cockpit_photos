@@ -67,6 +67,8 @@ Other useful information, specific to the plane.
 - P-47D-28
 - Spitfire MkIXc
 - Spitfire MkIXe
+- Spitfire MkXIV
+- Spitfire MkXIVe
 
 ## How to export
 
