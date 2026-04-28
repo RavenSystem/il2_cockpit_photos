@@ -22,8 +22,9 @@ All cockpit photos notes have a similar layout.
 A list of different available engine modes. Depending of the plane, there will be different options.
 
 **Modes**:
-- **takeoff**: Powerfull mode allowed only for a few minutes.
-- **nominal**: 100% of the power, normally without time limit.
+- **boosted**: Powerfull emergency mode allowed only for a few minutes.
+- **takeoff**: Powerfull mode, used to take-off, allowed only for a few minutes.
+- **nominal**: 100% of the power engine, without time limit.
 - **cruise**: Standard cruise mode.
 - **cruiseNN**: Cruise mode referencing NN% of the noiminal power.
 - **cruise.min**: Cruise mode with minimal power.
@@ -67,6 +68,7 @@ Other useful information, specific to the plane.
 - P-47D-28
 - Spitfire MkIXc
 - Spitfire MkIXe
+- Spitfire MkVB
 - Spitfire MkXIV
 - Spitfire MkXIVe
 
