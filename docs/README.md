@@ -6,7 +6,7 @@ More information: [ [Il-2 BoX Technical Data](https://ravensystem.github.io/il2_
 
 **[DOWNLOAD](https://github.com/RavenSystem/il2_cockpit_photos/archive/refs/heads/main.zip)** and use JSGME Mod Enabler.
 
-My personal recommendation is to install [Another Pilots Notes for Cockpit Photos](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) first, and then install the notes of this project, overwritting only those available notes of this.
+My personal recommendation is to install [Another Pilots Notes for Cockpit Photos](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) first, and then install the notes of this project, overwriting only those available notes of this.
 
 ## Layout
 
