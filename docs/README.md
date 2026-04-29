@@ -12,7 +12,7 @@ My personal recommendation is to install [Another Pilots Notes for Cockpit Photo
 
 All cockpit photos notes have a similar layout.
 
-### Color leyend:
+### Colors leyend:
 - **Red**: Maximum allowed value.
 - **Green**: Best value.
 - **Blue**: Minimum allowed value.
