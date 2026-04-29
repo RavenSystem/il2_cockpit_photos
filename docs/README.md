@@ -26,7 +26,7 @@ A list of different available engine modes. Depending of the plane, there will b
 - **takeoff**: Powerfull mode, used to take-off, allowed only for a few minutes.
 - **nominal**: 100% of the power engine, without time limit.
 - **cruise**: Standard cruise mode.
-- **cruiseNN**: Cruise mode referencing NN% of the noiminal power.
+- **cruiseNN**: Cruise mode referencing NN% of the nominal power.
 - **cruise.min**: Cruise mode with minimal power.
 
 **Others**:
