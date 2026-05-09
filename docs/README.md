@@ -12,7 +12,7 @@ My personal recommendation is to install [Another Pilots Notes for Cockpit Photo
 
 All cockpit photos notes have a similar layout.
 
-### Colors leyend:
+### Colors leyend
 - **Red**: Maximum allowed value.
 - **Green**: Best value.
 - **Blue**: Minimum allowed value.
@@ -57,7 +57,7 @@ Value ranges of temperatures and pressures, including water (coolant), oil and c
 Other useful information, specific to the plane. 
 
 
-## Available planes:
+## Available planes
 
 - A20-B
 - Il-2 mod.1941
